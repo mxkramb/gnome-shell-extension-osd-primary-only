@@ -1,0 +1,12 @@
+{
+  "uuid": "osd-primary-only@mxkramb.github.io",
+  "name": "OSD Primary Only",
+  "description": "Forces GNOME Shell OSD notifications (volume, brightness, etc.) to display only on the primary monitor.",
+  "shell-version": [
+    "46",
+    "47",
+    "48"
+  ],
+  "version": 1,
+  "url": "https://github.com/mxkramb/gnome-shell-extension-osd-primary-only"
+}

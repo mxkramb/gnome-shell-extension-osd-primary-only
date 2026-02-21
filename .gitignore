@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+package-lock.json
+
+# Editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+
+# Packaged extension
+*.zip
