@@ -1,0 +1,12 @@
+{
+  "name": "gnome-shell-extension-osd-primary-only",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "eslint extension.js"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "@eslint/js": "^9.0.0"
+  }
+}
