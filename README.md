@@ -46,7 +46,7 @@ You can install this extension directly from the [GNOME Extensions Website](http
    Then enable the extension via the *Extensions* app.
    ```bash
    gnome-extensions install osd-primary-only@mxkramb.github.io
-   ``
+   ```
 
 ## 🧪 Quality Assurance & Testing
 This project follows strict code quality guidelines:
