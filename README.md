@@ -29,7 +29,7 @@ You can install this extension directly from the [GNOME Extensions Website](http
 ### Option 2: Manual / Development
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/mxkramb/gnome-shell-extension-osd-primary-only.git](https://github.com/mxkramb/gnome-shell-extension-osd-primary-only.git)
+   git clone https://github.com/mxkramb/gnome-shell-extension-osd-primary-only.git
    ```
 2. Build the extension bundle:
    ```bash
@@ -45,7 +45,7 @@ You can install this extension directly from the [GNOME Extensions Website](http
   
    Then enable the extension via the *Extensions* app.
    ```bash
-   gnome-extensions install osd-primary-only@mxkramb.github.io
+   gnome-extensions enable osd-primary-only@mxkramb.github.io
    ```
 
 ## 🧪 Quality Assurance & Testing
