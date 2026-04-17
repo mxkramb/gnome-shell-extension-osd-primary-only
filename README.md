@@ -24,7 +24,7 @@ By default, GNOME mirrors OSD notifications across all connected monitors. If yo
 ## 📦 Installation
 
 ### Option 1: Official GNOME Extensions (Recommended)
-You can install this extension directly from the [GNOME Extensions Website](https://extensions.gnome.org) *(Link follows after approval)*.
+➡️ **Install from GNOME Extensions (E.G.O):** [OSD Primary Only](https://extensions.gnome.org/extension/9458/osd-primary-only/)
 
 ### Option 2: Manual / Development
 1. Clone this repository:
