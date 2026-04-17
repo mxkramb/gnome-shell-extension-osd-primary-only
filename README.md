@@ -1,6 +1,6 @@
 # OSD Primary Only - GNOME Shell Extension
 
-![GNOME Version](https://img.shields.io/badge/GNOME-46%20%7C%2047%20%7C%2048-blue?style=flat-square&logo=gnome)
+![GNOME Version](https://img.shields.io/badge/GNOME-46%20%7C%2047%20%7C%2048%20%7C%2049%20%7C%2050-blue?style=flat-square&logo=gnome)
 ![Lint](https://img.shields.io/github/actions/workflow/status/mxkramb/gnome-shell-extension-osd-primary-only/lint.yml?label=Lint&style=flat-square)
 ![License](https://img.shields.io/github/license/mxkramb/gnome-shell-extension-osd-primary-only?style=flat-square)
 ![Release](https://img.shields.io/github/v/release/mxkramb/gnome-shell-extension-osd-primary-only?style=flat-square)
@@ -56,6 +56,9 @@ This project follows strict code quality guidelines:
 **Testing Matrix:**
 - ✅ GNOME 46 (Ubuntu 24.04 LTS) - Wayland & X11
 - ✅ GNOME 47 (Fedora 41) - Wayland
+- ⚠️ GNOME 48 Expected (not explicitly tested)
+- ⚠️ GNOME 49 Expected (not explicitly tested)
+- ✅ GNOME 50 (GNOME OS, gnomeos-9410-1f7d) - Wayland
 - ✅ Multi-monitor setups (2 and 3 displays)
 - ✅ Validated behavior during screen sharing (WebRTC/OBS)
 

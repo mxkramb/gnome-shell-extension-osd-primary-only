@@ -5,8 +5,10 @@
   "shell-version": [
     "46",
     "47",
-    "48"
+    "48",
+    "49",
+    "50"
   ],
-  "version": 1,
+  "version": 2,
   "url": "https://github.com/mxkramb/gnome-shell-extension-osd-primary-only"
 }
